@@ -1,0 +1,11 @@
+{
+  "@@locale": "ar",
+  "appName": "كروس كول",
+  "answerCall": "رد",
+  "declineCall": "رفض",
+  "endCall": "إنهاء المكالمة",
+  "homeTitle": "كروس كول",
+  "contactsTitle": "جهات الاتصال",
+  "historyTitle": "سجل المكالمات",
+  "settingsTitle": "الإعدادات"
+}

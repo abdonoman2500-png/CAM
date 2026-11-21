@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+  "appName": "CrossCall",
+  "answerCall": "Answer",
+  "declineCall": "Decline",
+  "endCall": "End Call",
+  "homeTitle": "CrossCall",
+  "contactsTitle": "Contacts",
+  "historyTitle": "Call History",
+  "settingsTitle": "Settings"
+}
